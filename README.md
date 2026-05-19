@@ -1,11 +1,18 @@
 ## Hi, I'm Soumyajit 👋
 
-- ✨ Full Stack Developer passionate about JavaScript, React, Node.js, and modern web technologies.
-- 🚀 Currently building real-world projects to strengthen backend and system design skills.
-- 🧠 Exploring scalable architectures, REST APIs, and performance optimization.
-- 🛠 Love working with MongoDB, Express, and clean component-based design.
-- 💡 Continuously learning and improving through hands-on development.
-- 🌱 Open to collaboration and contributing to meaningful projects.
+✨ Passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+
+🚀 Crafting real-world projects using **JavaScript, React, Node.js, Express, and MongoDB** while strengthening backend engineering and system design skills.
+
+🧠 Exploring **scalable architectures, REST APIs, authentication systems, and performance optimization**.
+
+⚡ Love transforming ideas into clean, responsive, and high-performing digital experiences with component-based development.
+
+🛠 Enjoy working across the full stack — from intuitive frontend interfaces to robust backend systems and databases.
+
+💡 Continuously learning, building, and improving through hands-on development and problem-solving.
+
+🌱 Open to **collaborations, freelance opportunities, internships, and meaningful projects**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559903738396016662) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/berasoumyajit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumya.bera003@gmail.com) 
