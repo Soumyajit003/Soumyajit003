@@ -1,21 +1,8 @@
-## Hi, I'm Soumyajit 👋
-
-✨ Passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
-
-🚀 Crafting real-world projects using **JavaScript, React, Node.js, Express, and MongoDB** while strengthening backend engineering and system design skills.
-
-🧠 Exploring **scalable architectures, REST APIs, authentication systems, and performance optimization**.
-
-⚡ Love transforming ideas into clean, responsive, and high-performing digital experiences with component-based development.
-
-🛠 Enjoy working across the full stack — from intuitive frontend interfaces to robust backend systems and databases.
-
-💡 Continuously learning, building, and improving through hands-on development and problem-solving.
-
-🌱 Open to **collaborations, freelance opportunities, internships, and meaningful projects**.
+# 💫 About Me:
+✨ Passionate Full Stack Developer focused on building modern, scalable, and user-friendly web applications.<br>🚀 Crafting real-world projects using JavaScript, React, Node.js, Express, and MongoDB while strengthening backend engineering and system design skills.<br>🧠 Exploring scalable architectures, REST APIs, authentication systems, and performance optimization.<br>⚡ Love transforming ideas into clean, responsive, and high-performing digital experiences with component-based development.<br>🛠 Enjoy working across the full stack — from intuitive frontend interfaces to robust backend systems and databases.<br>💡 Continuously learning, building, and improving through hands-on development and problem-solving.<br>🌱 Open to collaborations, freelance opportunities, internships, and meaningful projects.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559903738396016662) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/berasoumyajit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumya.bera003@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/559903738396016662) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/berasoumyajit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SoumyajitBera18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumya.bera003@gmail.com) 
 
 # 💻 Tech Stack:
 ### Languages: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -24,4 +11,12 @@
 ### Database: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### Tools: ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Soumyajit003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Soumyajit003&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Soumyajit003&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=Soumyajit003&icon=3&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
